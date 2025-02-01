@@ -15,4 +15,4 @@ Once the data is processed, it is exported in CSV format and imported into Table
 5. Exporting processed data loan_data to CSV and importing it into Tableau.
 6. Creating dynamic and informative visualizations in Tableau.
 
-Tableau Dashboard: 
+Tableau Dashboard: https://public.tableau.com/app/profile/gowtham.dasappa.ravindra/viz/LoanDataAnalysisDashboard/LoanDataAnalysisDashboard
